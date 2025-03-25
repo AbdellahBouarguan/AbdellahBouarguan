@@ -35,7 +35,7 @@ I'm a passionate student pursuing an interdisciplinary journey through mathemati
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdellahBouarguan&show_icons=true&theme=radical)
 
 ## 💼 Professional Platforms
-[![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~YOUR_UPWORK_PROFILE)
+[![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01cbb40a5bddcdf5a2)
 
 ## 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/bouarguan-abdellah-2323a1297/)
