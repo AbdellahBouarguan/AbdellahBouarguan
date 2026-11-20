@@ -32,7 +32,7 @@ I'm a passionate student pursuing an interdisciplinary journey through mathemati
 - Exploring Cross-Platform Development
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdellahBouarguan&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdellahBouarguan&show_icons=true&theme=radical&v=2)
 
 ## 💼 Professional Platforms
 [![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01cbb40a5bddcdf5a2)
