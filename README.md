@@ -9,6 +9,8 @@ I'm a passionate student pursuing an interdisciplinary journey through mathemati
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-3776AB?style=flat&logo=PHP&logoColor=white)
+![Java](https://img.shields.io/badge/-JAVA-F7DF1E?style=flat&logo=JAVA&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![OCaml](https://img.shields.io/badge/-OCaml-EC6813?style=flat&logo=ocaml&logoColor=white)
 ![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat&logo=godot-engine&logoColor=white)
